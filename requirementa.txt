@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+pymupdf4llm
+fastembed
+psycopg[binary]
+pgvector
+numpy
+ollama
+openai
+python-dotenv
